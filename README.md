@@ -1,2 +1,3 @@
 # Demo
-Demo repo
+Demo repo git commands demonstration
+
